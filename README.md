@@ -1,2 +1,2 @@
-# apuntes-sql
+# Apuntes SQL
 Repositorio de apuntes y atajos de SQL
